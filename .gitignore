@@ -1,6 +1,5 @@
 ### Project Specific ###
-dataset
-src/cnn/model
+dataset 
 
 *.jpeg
 *.png
